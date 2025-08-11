@@ -1,0 +1,10 @@
+name: phi_masking_agent_env
+dependencies:
+  - python>=3.13
+  - pip
+  - pip:
+      - streamlit
+      - langgraph
+      - langchain
+      - langchain-core
+      - langchain-ollama

@@ -1,0 +1,84 @@
+id,patient_id,narrative
+82af13e9-c6ff-42aa-8b69-b008390d665e,3,"Neurology Clinic (1 Aug 2025):
+Emily Zhang | ID 56473829 | born 1992/03/09 — here for refractory migraines. Email: emilyz@fictionalmail.com; mobile: 917-555-7463.
+Past year: 14 ED visits for migraine crises; Jan ’25 started topiramate 25mg BID (increased to 100mg BID), stopped Apr ’25 due to cognitive side effects; Mar ’25 MRI brain normal; Jun ’25 trial of CGRP inhibitor (partial relief). Triggers: stress, poor sleep, red wine.
+PMH: Mild asthma (albuterol PRN), vitamin D deficiency.
+Social: Works as UX designer; non-smoker; occasional alcohol.
+Allergies: Sulfa drugs (rash).
+Family hx: Mother and maternal aunt with migraine.
+Plan: Start propranolol 40mg BID, continue magnesium, track triggers, neuro follow-up in 6 weeks."
+921901fa-f346-4922-b794-46b5d9030229,4,"Endocrinology (7/30/25):
+Robert Johnson — DOB 06-18-65 — hospital ID#19283746 — address: 455 North Willow Street, Apt 3B, Brooklyn, NY (fictional) — office phone: (718) 555 6345 ext. 204.
+Past year: Nov ’24 hospitalization for infected left foot ulcer (IV antibiotics, debridement); Mar ’25 microalbuminuria (started lisinopril 20mg daily); May ’25 diabetes education program (partial adherence).
+PMH: HTN, hyperlipidemia, obesity.
+Labs: HbA1c trend — 7.4% (Aug ’24) → 8.0% (Mar ’25) → 8.3% (today). LDL 128 mg/dL, creatinine 1.2 mg/dL.
+Social: Retired NYPD officer; smokes ½ ppd; no alcohol.
+Allergies: NKDA.
+Plan: Start basal insulin 12 units nightly, reinforce diet, recheck labs in 3 months."
+908659dc-70f2-4ff5-bebc-14b2421b4b49,5,"Urgent Care (05 Aug 2025):
+Sophia P., MRN: 92837-465, born 09/25/01 — ankle injury during soccer. Coach Mike: 347 555 2198 (main contact).
+Past year: Oct ’24 concussion (missed 2 weeks of classes), Feb ’25 concussion (CT negative), Apr ’25 left distal radius fracture (casted). May ’25 labs: ferritin 8 ng/mL — started ferrous sulfate.
+PMH: Exercise-induced asthma.
+Social: College athlete; lives with roommates.
+Allergies: Latex (rash).
+Family hx: Mother with anemia.
+Plan: Grade II sprain, RICE protocol, PT referral, avoid play for 4–6 weeks.
+"
+aad71158-f05a-4ab5-abf0-df786d41d335,6,"Cardiology Annual Review (Aug 2nd, 2025):
+David Kim — born Dec 2 1974 — record: 3847 5629. Prefers text at 929-555-4821 or wife’s email y.kim@fictionaldomain.org.
+Past year: Sept ’24 NSTEMI (PCI, LAD stent); Dec ’24 unstable angina (no new lesions); Feb ’25 cardiac rehab enrollment (2 sessions/week, ongoing).
+PMH: HTN, hyperlipidemia, mild CKD.
+Meds: Aspirin 81mg, ticagrelor 90mg BID, metoprolol 50mg BID, rosuvastatin 40mg nightly.
+Labs: LDL 74 mg/dL, creatinine 1.4 mg/dL, BP today 128/82.
+Social: Accountant; married, 2 kids; no tobacco; occasional beer.
+Allergies: Shellfish (hives).
+Plan: Continue regimen, home BP log, follow-up 6 months.
+"
+58eb807d-6df0-4b8c-af85-d595f0cbfc64,7,"Allergy/Immunology (7-28-2025):
+Hannah Wilson — ID: 6574-8392 — DOB 5/11/88 — address in chart: Parkside Apts., Unit 5C, NYC (fictional). Work fax: 212-555-1039.
+Past year: ICU asthma exacerbations Jan ’25, May ’25 (systemic steroids each time). Apr ’25 started allergy shots; discontinued due to large local reactions. Uses fluticasone-salmeterol BID, montelukast QHS, albuterol PRN.
+PMH: Allergic rhinitis, GERD.
+Social: Works in daycare; non-smoker; drinks socially.
+Allergies: Peanuts (anaphylaxis).
+Family hx: Mother with asthma, father with seasonal allergies.
+Plan: Start loratadine during pollen peaks, continue inhalers, pulm follow-up in 2 months.
+"
+ea179080-3731-405b-abfb-69610d97e7b2,8,"Psychiatry Progress (31 July 2025):
+Olivia T. — patient #74829365 — born 1.30.82 — lives with sister at 118 Grant St., Bronx NY (fictional). Mobile: 917/555/3248.
+Past year: Aug ’24 and Feb ’25 psych admissions for suicidal ideation; Nov ’24 started sertraline 100mg daily; May ’25 added bupropion XL 150mg. Engaged in weekly CBT since Mar ’25.
+PMH: GAD, chronic insomnia.
+Social: Unemployed; no tobacco or alcohol; walks daily for exercise.
+Allergies: NKDA.
+Family hx: Depression in both parents.
+Plan: Maintain antidepressants, trial trazodone 50mg nightly, psych follow-up in 4 weeks.
+"
+f2c3e82a-be85-4b8e-bf88-9e2afb2ed640,9,"Asthma Management (08.04.25):
+Michael Rivera — dob 14-Aug-1995 — MRN# 83746529 — email: michael.riv@fakemail.com — cell: +1 646 555 7124.
+Past year: 4 ED visits for wheezing; Oct ’24 started ICS/LABA (inconsistent use); Mar ’25 FEV1 72% predicted; persistent GERD symptoms.
+PMH: Seasonal allergies, GERD.
+Social: Bartender; smokes 5 cigarettes/day; occasional alcohol.
+Allergies: NKDA.
+Family hx: Brother with asthma.
+Plan: Switch to triple therapy inhaler, start omeprazole 20mg daily, encourage smoking cessation."
+91e0adb6-c539-4c7b-972c-84f460c06a5f,10,"Sports Medicine (6 Aug 2025):
+Ethan Lewis — DOB 1970-10-06 — chart 1928-4756 — home: 347.555.9002 — office ext. 45 via receptionist.
+Past year: Sept ’24 left knee arthroscopy (meniscus tear), Jan ’25 and Apr ’25 steroid injections for OA pain, May ’25 developed contralateral knee pain after long hike. PMH: HTN on amlodipine 10mg daily.
+Social: Retired firefighter; lives with spouse; smokes cigars occasionally; drinks socially.
+Allergies: NKDA.
+Family hx: Osteoarthritis in both parents.
+Plan: MRI right knee, start PT, recommend stationary cycling instead of running."
+2bda1241-82c3-4952-b25a-1a7411bddf5d,1,"Pulmonology Progress (08/03/2025):
+Ms. Linda Martinez — DOB 4/22/78 — chart ID 10293847 — presented with shortness of breath and orthopnea for 6 days. Mobile: 212.555.8910. Over the last year she’s had 3 admissions: Mar ’25 acute decompensated CHF (BNP 1,260 pg/mL; EF 28% on echo; IV diuretics + oxygen), Dec ’24 community-acquired pneumonia with Afib RVR (controlled with IV diltiazem), and Sept ’24 volume overload after missing meds. CXR today shows mild pulmonary congestion. Labs: Na 131 mmol/L, Cr 1.5 mg/dL, K 4.7 mmol/L.
+Social: Non-smoker, occasional wine, lives with adult daughter in Queens.
+Allergies: Penicillin (rash).
+Family hx: Father died age 62 of MI; mother with HTN.
+Plan: Increase furosemide to 80mg daily, arrange follow-up echo with Dr. Hwang at Mt. Grace Hospital, reinforce sodium restriction."
+"81e0d8ad-3b5a-4df8-921c-e699df774875
+",2,"Orthopedics Follow-up (07-29-2025):
+Jason P. OConnor (MRN 8837-2194, born November 15th, 1985) complains of worsening right lumbar radicular pain. Contact: +1-646-555-1022. Surgical history: Feb ’25 L4–L5 microdiscectomy for disc herniation; May ’25 MRI showed recurrent herniation after work accident. June–July ’25: 12 PT sessions, limited benefit.
+Past medical: HTN (lisinopril 10mg daily), obesity (BMI 34).
+Social: Works as delivery driver; lives with wife and 3 children in Brooklyn.
+Allergies: NKDA.
+Family hx: Mother with type 2 DM, father with chronic back pain.
+Plan: Repeat MRI lumbar spine, trial epidural steroid injection, consider surgical fusion if symptoms persist.
+"
