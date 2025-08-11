@@ -13,10 +13,11 @@ def phi_masking_agent_app():
     """
     fns = [
         display_data,
-        mask_data
+        mask_sample_data,
+        mask_user_data
     ]
     i = st.radio(
-        "Select the function in `weather.py` to run:",
+        "Select the function in `phi_masking_agent.py` to run:",
         options=range(len(fns)),
         format_func=lambda i: f"{fns[i].__name__}() -- {(fns[i].__doc__ or '').strip()}",
     )
@@ -44,13 +45,12 @@ def display_data():
     for row in data:
         st.write(row)
 
-def mask_data():
+def mask_data(data):
     """
 
-    Mask PHI elements found in data.
-
+    mask data using LangGraph and on prem LLM
     """
-    data = get_phi_data()
+
     col1, col2 = st.columns([1,1])
 
     for row in data:
@@ -66,6 +66,23 @@ def mask_data():
             output = graph.invoke(narrative)
             st.write(output['narrative_masked'])
 
+def mask_sample_data():
+    """
+
+    Mask PHI elements found in sample data.
+
+    """
+    sample_data = get_phi_data()
+    mask_data(sample_data)
+
+def mask_user_data():
+    """
+
+    Mask PHI elements found in user's input data.
+    """
+    input = st.text_input("Clinical Note", "Your note to mask...")
+    user_data = [{"id":"1", "patient_id":1, "narrative":input}]
+    mask_data(user_data)
 
 if __name__ == "__main__":
     phi_masking_agent_app()
