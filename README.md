@@ -39,8 +39,8 @@ Make sure you have [conda](https://docs.conda.io/en/latest/) installed.
 
 Create and activate the environment from the `requirements.env` file:
 ```bash
-conda create --name phi_masking_env --file requirements.env
-conda activate phi_masking_env
+conda env update -f ./environment.yml
+conda activate phi_masking_agent_env
 ```
 
 ---
